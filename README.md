@@ -1,1 +1,1 @@
-# RayTracingInOneWeekendGLSL
+# Implementations of https://raytracing.github.io/books/RayTracingInOneWeekend.html
