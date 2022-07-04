@@ -6,4 +6,5 @@ Implementations of https://raytracing.github.io/books/RayTracingInOneWeekend.htm
 ![10](https://user-images.githubusercontent.com/78906517/177143713-3d86ca86-f1d0-438d-b80e-b13ce9de1324.png)
 ![11](https://user-images.githubusercontent.com/78906517/177143729-139f2e44-78ff-49b2-841e-139b46df48a7.png)
 ![12](https://user-images.githubusercontent.com/78906517/177143871-d62a39be-b46d-4f86-9683-9ad3a005f14a.png)
+![13](https://user-images.githubusercontent.com/78906517/177148101-7d494eea-61bf-45b9-8575-fb15517c52c7.png)
 
